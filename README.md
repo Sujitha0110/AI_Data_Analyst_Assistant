@@ -18,14 +18,14 @@ Explore the AI Data Analyst Assistant and its features through the screenshots b
 <img src="screenshots/home.png" alt="Home Page" width="900" />
 
 ### 📁 Dataset Upload & 🔍 Data Analysis
-<img src="screenshots/dataset-upload.png" alt="Dataset Upload" width="900" />
-<img src="screenshots/data-analysis.png" alt="Data Analysis" width="900" />
+<img width="1303" height="592" alt="dataset upload" src="https://github.com/user-attachments/assets/b2eb7140-5c7f-408b-a238-2acd2c4ca6ad" />
+<img width="1328" height="597" alt="data analysis" src="https://github.com/user-attachments/assets/91773943-3111-494a-9976-866643d13745" />
 
 ### 🧩 Custom Dashboard
-<img src="screenshots/dashboard.png" alt="Build My Dashboard" width="900" />
+<img width="1365" height="611" alt="build my dashboard" src="https://github.com/user-attachments/assets/5a4332ef-6b67-4b46-ab87-73e0123d5075" />
 
 ### 🧠 AI Business Insights
-<img src="screenshots/ai-insights.png" alt="AI Business Insights" width="900" />
+<img width="1331" height="599" alt="ai business insights" src="https://github.com/user-attachments/assets/f10c4616-531a-400c-b7e9-c60c49d3d1f6" />
 
 ## 🚀 Key Features
 
